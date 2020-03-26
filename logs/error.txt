@@ -1,0 +1,3 @@
+Index(...) must be called with a collection of some kind, False was passedIndex(...) must be called with a collection of some kind, False was passed
+Index(...) must be called with a collection of some kind, False was passed
+Index(...) must be called with a collection of some kind, False was passed

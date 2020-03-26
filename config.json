@@ -1,0 +1,28 @@
+{
+  "project": {
+    "name": "Reader mesa",
+    "version": 1.0,
+    "date": "01/03/2020",
+    "pattern": "QRCODE0"
+  },
+  "serial": {
+    "port": "/dev/SERIAL_PORT",
+    "baudrate": 9600
+  },
+  "camera": {
+    "resolution": {
+      "width": 1640,
+      "height": 1232
+    },
+    "fps": 65,
+    "raspberry": 0,
+    "usb": 1,
+    "ip": 0,
+    "resize": 480,
+    "show_image": 1
+  },
+  "wifi": {
+    "ssid": "madruga",
+    "password": "gentalha"
+  }
+}
