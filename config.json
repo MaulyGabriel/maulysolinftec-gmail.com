@@ -15,11 +15,11 @@
       "height": 1232
     },
     "fps": 65,
-    "raspberry": 0,
+    "raspberry": 1,
     "usb": 1,
     "ip": 0,
     "resize": 480,
-    "show_image": 1
+    "show_image": 0
   },
   "wifi": {
     "ssid": "madruga",

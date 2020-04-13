@@ -105,7 +105,6 @@ class Recognition:
                                 'data': self.get_format_date(),
                             }
 
-                            logger.success(logs)
                             self.cart_log = list()
 
                             df = pd.DataFrame(logs, index=[0])
@@ -122,7 +121,7 @@ class Recognition:
                         if code.split('-')[0] == 'CAM':
                             truck = code.split('-')[1]
                         else:
-
+                            logger.debug('Add code: {}'.format(code))
                             self.cart_log.append(code)
                             self.cart_log = sorted(list(set(self.cart_log)))
 

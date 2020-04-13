@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb3db601-ca1e-401b-9eda-65b27a9d4aa2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/template_project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/template_project.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/error.txt" beforeDir="false" afterPath="$PROJECT_DIR$/logs/error.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/logs.csv" beforeDir="false" afterPath="$PROJECT_DIR$/logs/logs.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recognition.py" beforeDir="false" afterPath="$PROJECT_DIR$/recognition.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +28,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -46,10 +54,15 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="693" y="268" width="524" height="496" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584708605880" />
-    <state x="591" y="346" key="com.intellij.ide.util.TipDialog" timestamp="1585224112147">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="478" y="174" key="SettingsEditor" timestamp="1586781589173">
+      <screen x="49" y="24" width="1871" height="1056" />
+    </state>
+    <state x="478" y="174" key="SettingsEditor/49.24.1871.1056@49.24.1871.1056" timestamp="1586781589173" />
+    <state x="625" y="375" key="com.intellij.ide.util.TipDialog" timestamp="1586777377652">
+      <screen x="49" y="24" width="1871" height="1056" />
     </state>
     <state x="591" y="346" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585224112147" />
+    <state x="625" y="375" key="com.intellij.ide.util.TipDialog/49.24.1871.1056@49.24.1871.1056" timestamp="1586777377652" />
     <state x="961" y="0" width="959" height="1039" key="dock-window-1" timestamp="1585229157022">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
